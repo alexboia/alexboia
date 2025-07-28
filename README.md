@@ -22,8 +22,8 @@ I work in IT as a software engineer (a kind of programmer, just better), and Iâ€
 
 ## Favorite Projects & Achievements
 
-- **WP Trip Summary**
-- **Stakhanovise.NET**
+- [**WP Trip Summary**](https://github.com/alexboia/WP-Trip-Summary/)
+- [**Stakhanovise.NET**](https://github.com/alexboia/Stakhanovise.NET)
 
 ## Social Links
 
